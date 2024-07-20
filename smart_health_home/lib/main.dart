@@ -1,4 +1,26 @@
+
 import 'package:flutter/material.dart';
+// Import the functions you need from the SDKs you need
+// import { initializeApp } from "firebase/app";
+// import { getAnalytics } from "firebase/analytics";
+// // TODO: Add SDKs for Firebase products that you want to use
+// // https://firebase.google.com/docs/web/setup#available-libraries
+
+// // Your web app's Firebase configuration
+// // For Firebase JS SDK v7.20.0 and later, measurementId is optional
+// const firebaseConfig = {
+//   apiKey: "AIzaSyB98HWkaG-e4e_0yGZNvECMS0AGQipJ7JA",
+//   authDomain: "the-elite-space-d1a20.firebaseapp.com",
+//   projectId: "the-elite-space-d1a20",
+//   storageBucket: "the-elite-space-d1a20.appspot.com",
+//   messagingSenderId: "1069393524561",
+//   appId: "1:1069393524561:web:3979cfda8a244361810570",
+//   measurementId: "G-18J7TC2F3D"
+// };
+
+// Initialize Firebase
+// const app = initializeApp(firebaseConfig);
+// const analytics = getAnalytics(app);
 
 void main() {
   runApp(const MyApp());

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1069393524561",
+    "project_id": "the-elite-space-d1a20",
+    "storage_bucket": "the-elite-space-d1a20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069393524561:android:27827ad502769373810570",
+        "android_client_info": {
+          "package_name": "com.example.smart_health_home"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEs5RoHhCo9YJVdJ0bHrzz9Y4gMPI-0sc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
