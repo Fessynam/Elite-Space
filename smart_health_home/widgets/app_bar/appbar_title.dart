@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-import 'lib/core/app_export.dart';
-
+import 'package:smart_health_home/core/app_export.dart';
 class AppbarTitle extends StatelessWidget{
   AppbarTitle({Key? key, required this.text, this.margin, this.onTap}) : super(key: key);
   

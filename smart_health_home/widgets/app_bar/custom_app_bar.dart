@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../core/app_export.dart';
+import 'package:smart_health_home/core/app_export.dart';
 class CustomAppBar extends StatelessWidget implements PreferredSizeWidget{
   CustomAppBar(
     {Key? key,
@@ -25,7 +25,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget{
   Widget build(BuildContext context) {
     return AppBar(
       elevation: 0,
-      toolbarHeight: height?? 56,
+      toolbarHeight: height?? 56.h,
       automaticallyImplyLeading: false,
       leadingWidth: leadingWidth ?? 0,
       leading: leading,
